@@ -11,12 +11,19 @@
 
 ** How to Run The Program **
 > git clone https://github.com/jihadkamil/task-tracker.git
+
 > cd task-tracker
-<!-- 1. run on the fly -->
+
+2 options to run this program
+* [1] on the fly 
 > go run main.go
-<!-- 2. run on the executable file -->
+* [2] on the executable file 
 > go build -o task-tracker
+
 > ./task-tracker
+
+
+** Here are some commands that you can execute on this program
 
 * Add new task: automatically create id, status (todo) createdAt, updatedAt
 > add "task-name"
