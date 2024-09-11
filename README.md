@@ -34,4 +34,4 @@
 <!-- clear terminal -->
 > clear
 
-@author: jihadkamil.dev@gmail.com
+@author: jihadkamil.dev
